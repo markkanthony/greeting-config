@@ -1,12 +1,1 @@
-management:
-    security:
-        enabled: false
-
-logging: # <----New sections below
-    level:
-        root: WARN
-        com:
-            orangeandbronze: DEBUG
-
-greeting:
-    displayFortune: false
+name: mark anthony
